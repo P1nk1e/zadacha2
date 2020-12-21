@@ -1,0 +1,32 @@
+﻿  Source.cpp
+C:\Users\zoome\source\repos\african_face1\african_face1\Source.cpp(27,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\zoome\source\repos\african_face1\african_face1\Source.cpp(73,83): warning C4244: аргумент: преобразование "double" в "t", возможна потеря данных
+          with
+          [
+              t=int
+          ]
+C:\Users\zoome\source\repos\african_face1\african_face1\Source.cpp(73,57): warning C4244: аргумент: преобразование "double" в "t", возможна потеря данных
+          with
+          [
+              t=int
+          ]
+C:\Users\zoome\source\repos\african_face1\african_face1\Source.cpp(80,136): warning C4244: аргумент: преобразование "float" в "unsigned char", возможна потеря данных
+C:\Users\zoome\source\repos\african_face1\african_face1\Source.cpp(80,119): warning C4244: аргумент: преобразование "float" в "unsigned char", возможна потеря данных
+C:\Users\zoome\source\repos\african_face1\african_face1\Source.cpp(80,102): warning C4244: аргумент: преобразование "float" в "unsigned char", возможна потеря данных
+C:\Users\zoome\source\repos\african_face1\african_face1\geometry.h(17,78): warning C4244: аргумент: преобразование "float" в "t", возможна потеря данных
+          with
+          [
+              t=int
+          ]
+C:\Users\zoome\source\repos\african_face1\african_face1\geometry.h(17): message : во время компиляции функции-члена класс шаблон "Vec2<int> Vec2<int>::operator *(float) const"
+C:\Users\zoome\source\repos\african_face1\african_face1\Source.cpp(48): message : выполняется компиляция ссылки на экземпляр шаблон функции "Vec2<int> Vec2<int>::operator *(float) const"
+C:\Users\zoome\source\repos\african_face1\african_face1\Source.cpp(14): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vec2<int>"
+C:\Users\zoome\source\repos\african_face1\african_face1\geometry.h(17,73): warning C4244: аргумент: преобразование "float" в "t", возможна потеря данных
+          with
+          [
+              t=int
+          ]
+  model.cpp
+  tgaimage.cpp
+  Создание кода...
+  african_face1.vcxproj -> C:\Users\zoome\source\repos\african_face1\Debug\african_face1.exe
